@@ -1,0 +1,4 @@
+<sitemesh>
+    <mapping path="/vue/*"/>
+    <mapping path="/*" decorator="/decorators/decorator.jsp"/>
+</sitemesh>
